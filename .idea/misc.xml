@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/59167/AndroidStudioProjects/Agenda-main/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/59167/AndroidStudioProjects/Agenda-main/app/src/main/res/layout/activity_nuevo.xml" value="0.25" />
+        <entry key="..\:/Users/59167/AndroidStudioProjects/Agenda-main/app/src/main/res/layout/activity_pantalla.xml" value="0.25" />
+        <entry key="..\:/Users/59167/AndroidStudioProjects/Agenda-main/app/src/main/res/layout/activity_pantalla_carga.xml" value="0.25" />
+        <entry key="..\:/Users/59167/AndroidStudioProjects/Agenda-main/app/src/main/res/layout/activity_ver.xml" value="0.2" />
+        <entry key="..\:/Users/59167/AndroidStudioProjects/Agenda-main/app/src/main/res/layout/lista_item_contacto.xml" value="0.25" />
+        <entry key="..\:/Users/59167/Desktop/remFin/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/59167/Desktop/remFin/app/src/main/res/layout/activity_nuevo.xml" value="0.25" />
+        <entry key="..\:/Users/59167/Desktop/remFin/app/src/main/res/layout/activity_pantalla.xml" value="0.25" />
+        <entry key="..\:/Users/59167/Desktop/remFin/app/src/main/res/layout/activity_ver.xml" value="0.25" />
+        <entry key="..\:/Users/59167/Desktop/remFin/app/src/main/res/layout/lista_item_contacto.xml" value="0.25" />
+        <entry key="..\:/Users/59167/Desktop/remFin/app/src/main/res/menu/menu_principal.xml" value="0.25" />
+        <entry key="..\:/Users/Cris/AndroidStudioProjects/remFin/app/src/main/res/drawable/ic_account.xml" value="0.1" />
+        <entry key="..\:/Users/Cris/AndroidStudioProjects/remFin/app/src/main/res/drawable/ic_add.xml" value="0.1" />
+        <entry key="..\:/Users/Cris/AndroidStudioProjects/remFin/app/src/main/res/layout/activity_main.xml" value="0.20102564102564102" />
+        <entry key="..\:/Users/Cris/AndroidStudioProjects/remFin/app/src/main/res/layout/activity_nuevo.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Cris/AndroidStudioProjects/remFin/app/src/main/res/layout/activity_pantalla.xml" value="0.20102564102564102" />
+        <entry key="..\:/Users/Cris/AndroidStudioProjects/remFin/app/src/main/res/layout/activity_ver.xml" value="0.33" />
+        <entry key="..\:/Users/Cris/AndroidStudioProjects/remFin/app/src/main/res/layout/lista_item_contacto.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Cris/AndroidStudioProjects/remFin/app/src/main/res/menu/menu_principal.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/mamani/Desktop/versionesDeAndroid/remFin/app/src/main/res/layout/activity_main.xml" value="0.18614130434782608" />
+        <entry key="..\:/Users/mamani/Desktop/versionesDeAndroid/remFin/app/src/main/res/layout/activity_nuevo.xml" value="0.33" />
+        <entry key="..\:/Users/mamani/Desktop/versionesDeAndroid/remFin/app/src/main/res/layout/activity_pantalla.xml" value="0.18614130434782608" />
+        <entry key="..\:/Users/mamani/Desktop/versionesDeAndroid/remFin/app/src/main/res/layout/activity_ver.xml" value="0.25" />
+        <entry key="..\:/Users/mamani/Desktop/versionesDeAndroid/remFin/app/src/main/res/layout/lista_item_contacto.xml" value="0.18614130434782608" />
+        <entry key="..\:/Users/mamani/Downloads/Agenda-main/Agenda-main/app/src/main/res/layout/activity_main.xml" value="0.271286231884058" />
+        <entry key="..\:/Users/mamani/Downloads/Agenda-main/Agenda-main/app/src/main/res/layout/activity_nuevo.xml" value="0.33" />
+        <entry key="..\:/Users/mamani/Downloads/Agenda-main/Agenda-main/app/src/main/res/layout/activity_pantalla.xml" value="0.271286231884058" />
+        <entry key="..\:/Users/mamani/Downloads/Agenda-main/Agenda-main/app/src/main/res/layout/activity_ver.xml" value="0.271286231884058" />
+        <entry key="..\:/Users/mamani/Downloads/Agenda-main/Agenda-main/app/src/main/res/layout/lista_item_contacto.xml" value="0.271286231884058" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>

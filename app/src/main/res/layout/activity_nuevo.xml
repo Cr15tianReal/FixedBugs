@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".NuevoActivity">
+
+    <LinearLayout
+        android:layout_width="411dp"
+        android:layout_height="731dp"
+        android:layout_margin="5dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Nuevo Evento:"
+            android:textColor="#000000"
+            android:textSize="30sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/viewTitulo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/hint_titulo"
+            android:textSize="24sp"
+            android:textStyle="bold" />
+
+        <EditText
+            android:id="@+id/txtTitulo"
+            android:layout_width="257dp"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:inputType="text"
+            android:labelFor="@+id/viewTitulo"
+            android:textColor="#181718"
+            android:textSize="20sp" />
+
+        <Button
+            android:id="@+id/bHora"
+            android:layout_width="wrap_content"
+            android:layout_height="33dp"
+            android:background="#673AB7"
+            android:onClick="onClick"
+            android:text="Hora"
+            android:textAlignment="center"
+            android:textColor="#F4F1F1" />
+
+        <TextView
+            android:id="@+id/eHora"
+            android:layout_width="163dp"
+            android:layout_height="wrap_content"
+            android:text=" "
+            android:textColor="#100F0F"
+            android:textSize="24sp" />
+
+        <Button
+            android:id="@+id/bFecha"
+            android:layout_width="wrap_content"
+            android:layout_height="30dp"
+            android:background="#673AB7"
+            android:onClick="onClick"
+            android:text="Fecha"
+            android:textColor="#F6F1F1" />
+
+        <TextView
+            android:id="@+id/eFecha"
+            android:layout_width="166dp"
+            android:layout_height="wrap_content"
+            android:textColor="#181718"
+            android:textSize="24sp" />
+
+        <TextView
+            android:id="@+id/viewDireccion"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/hint_direccion"
+            android:textSize="24sp"
+            android:textStyle="bold" />
+
+        <EditText
+            android:id="@+id/txtDireccion"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:inputType="text"
+            android:labelFor="@+id/viewDireccion"
+            android:textSize="20sp" />
+
+        <TextView
+            android:id="@+id/viewDescripcion"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/hint_descripcion"
+            android:textSize="24sp"
+            android:textStyle="bold" />
+
+        <EditText
+            android:id="@+id/txtDescripcion"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:inputType="text"
+            android:labelFor="@+id/viewDescripcion"
+            android:textSize="20sp" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/btnGuarda"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity=""
+            android:backgroundTint="#673AB7"
+            android:text="@string/btn_guarda"
+            android:textAlignment="center"
+            android:textColor="#F8F3F3"
+            android:textSize="14sp" />
+
+        <Button
+            android:id="@+id/btnBorrar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:backgroundTint="#673AB7"
+            android:text="Borrar"
+            android:textColor="#F6ECEC" />
+
+    </LinearLayout>
+
+</LinearLayout>
